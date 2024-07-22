@@ -34,7 +34,7 @@ module.exports = {
 
 	VERSION: 'v4.4.1', 
 
-    SESSION_ID: process.env.SESSION_ID || '07_20_H_E_R_M_I_T_UBQTL8Z',
+    SESSION_ID: process.env.SESSION_ID || '07_22_H_E_R_M_I_T_RTUZ9MS',
 
     MODE: (process.env.MODE || 'public').toLowerCase(),
 
@@ -52,7 +52,7 @@ module.exports = {
 
     ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE),
 
-    BOT_NAME: process.env.BOT_NAME || 'SHUBHAM',
+    BOT_NAME: process.env.BOT_NAME || 'MR_SHUBHAM',
 
     AUTOMUTE_MSG: process.env.AUTOMUTE_MSG || '_Group automuted!_\n_(Change this by setting var AUTOMUTE_MSG)_',
 
@@ -108,7 +108,7 @@ module.exports = {
 
        BRAIN_ID: process.env.BRAIN_ID || 'bid=168613&key=EfbnX54Iy9PFIFp3',
 
-       SUDO: process.env.SUDO || '917067575472,0',
+       SUDO: process.env.SUDO || '22890190164',
 
        DEBUG: DEBUG
 
